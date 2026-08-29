@@ -1,0 +1,16 @@
+Python fundamentos
+1. Variables y tipos de datos
+2. Operadores matemáticos
+3. Operadores booleanos
+4. Operadores lógicos
+5. Estructura de control
+  1.Condicionales
+  2.Ciclos 
+  3.Funciones
+6.Fundamentos de Programación orientada a objetos
+7. Estructura de datos
+  1.Cadenas de caracteres
+  2.Números
+  3.Listas
+  4.Tuplas
+  5.Diccionarios
